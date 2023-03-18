@@ -32,3 +32,8 @@ No diretório que o arquivo foi baixado execute o comando via terminal: pip inst
 - pip install pygame #Efeitos sonoros
 - pip install wikipedia #Pesquisar fatos na internet
 - pip install pywhatkit #Reproduzir músicas no YouTube
+
+### Rode o seguinte comando no CMD
+pip install SpeechRecognition pip install pyttsx3 pip install pygame pip install wikipedia pip install pywhatkit 
+
+- Para instalar o PyAudio em Python 3.6+, siga o seguinte <a href="https://youtu.be/XmjY-cFbcqw?t=138">tutorial</a>
